@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main colors-->
+    <color name="color_primary">#ec6c25</color>
+
+    <!--General colors-->
+    <color name="black">#FF000000</color>
+    <color name="black6B">#6B000000</color>
+    <color name="blackE6">#E6000000</color>
+    <color name="blackB3">#B3000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue_212236">#212236</color>
+    <color name="blue_0C74E7">#0C74E7</color>
+    <color name="blue_17234D">#17234D</color>
+    <color name="blue_02447d">#02447d</color>
+    <color name="green_00ED85">#00ED85</color>
+    <color name="gray_E9E9E9">#E9E9E9</color>
+    <color name="gray_E3E3E3">#E3E3E3</color>
+    <color name="gray_949494">#949494</color>
+    <color name="gray_circle_auth">#F1F2F6</color>
+
+    <!--Hints-->
+    <color name="gray_hint">#BBBBBB</color>
+
+</resources>

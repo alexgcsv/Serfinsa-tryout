@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084530327208",
+    "project_id": "serfinsa-18830",
+    "storage_bucket": "serfinsa-18830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084530327208:android:e2348ce5a5980330d94c9d",
+        "android_client_info": {
+          "package_name": "com.tryout.serfinsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084530327208-hvhouebj2bsvqbv6ft4khl5qpsungm3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tryout.serfinsa",
+            "certificate_hash": "069ccf427c82b2bbec7be5d094fc9e71be6113dd"
+          }
+        },
+        {
+          "client_id": "1084530327208-7aglhifba98eh89gth6ka15sv4qdh373.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_u9mxEmKTbbjUiJOaFItX7J4YZSFTgT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084530327208-7aglhifba98eh89gth6ka15sv4qdh373.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

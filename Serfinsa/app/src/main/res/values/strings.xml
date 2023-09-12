@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Serfinsa</string>
+
+    <!--Keys-->
+    <string name="google_web_client_id">1084530327208–7aglhifba98eh89gth6ka15sv4qdh373.apps.googleusercontent.com</string>
+
+    <!--Auth-->
+
+    <!--*Show auth*-->
+    <string name="next">Siguiente...</string>
+    <string name="login">Ingresar</string>
+    <string name="signUp">Utilizar Google</string>
+    <string name="or_label">ó</string>
+    <!--*Show auth*-->
+
+    <!--Dialogs-->
+    <string name="issue_auth_dialog">No fue posible ingresar o crear su usuario, intenta nuevamente o verifica tu conexión a internet.</string>
+    <string name="issue_photo_dialog">No se pudo cargar un archivo, intenta nuevamente o verifica tu conexión a internet.</string>
+    <string name="issue_user_dialog">No se pudo cargar la información de usuario, intenta nuevamente o verifica tu conexión a internet.</string>
+    <string name="issue_update_profile_dialog">No se pudo actualizar la información, verifica los datos ingresados o tu conexión a internet.</string>
+    <string name="done_update_profile_dialog">¡Información actualizada!</string>
+    <string name="accept">Aceptar</string>
+</resources>

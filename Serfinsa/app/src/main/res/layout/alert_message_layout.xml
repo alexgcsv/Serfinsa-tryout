@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:airbnb="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/transparent">
+
+    <!--Animate -->
+    <ImageView
+        android:id="@+id/playerImageview"
+        android:layout_width="245dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo_serfinsa"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        />
+
+    <!--Message Textview -->
+    <com.google.android.material.textview.MaterialTextView
+        android:gravity="center"
+        android:id="@+id/titleTextViewAlertmessage"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_width="260dp"
+        android:text="@string/issue_auth_dialog"
+        android:textAllCaps="false"
+        android:textColor="@color/blue_17234D"
+        android:textSize="20sp" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/acceptButtonAlertMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="end"
+        android:text="@string/accept"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:backgroundTint="@android:color/transparent"
+        android:background="@android:color/transparent"
+        android:textColor="@color/green_00ED85"
+        app:cornerRadius="40dp"
+        app:elevation="15dp"
+        app:rippleColor="@color/blue_0C74E7" />
+
+
+</LinearLayout>
